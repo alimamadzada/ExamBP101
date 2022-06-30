@@ -1,0 +1,229 @@
+nav a {
+    color: gray !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+nav a:hover {
+    color: white !important;
+}
+
+.welcome {
+    background-image: url("/images/1.jpg");
+    height: 70vh;
+    background-position: center;
+}
+
+.welcome-content {
+    padding-block: 30vh;
+    text-align: center;
+    color: white;
+}
+
+.welcome-button {
+    background-color: #3963be;
+    color: white;
+    width: 130px;
+    height: 35px;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+    .welcome-button:hover {
+        transition: all 0.3s ease;
+        background-color: #244283;
+        color: white;
+        width: 130px;
+        height: 35px;
+        border: none;
+    }
+
+.welcome-h1 {
+    font-size: 55px;
+}
+
+.portfolio {
+    margin: auto;
+    height: 90vh;
+    background-color: #f2dede;
+}
+
+.portfolio-content {
+    text-align: center;
+    align-items: center;
+}
+
+    .portfolio-content .col-12 {
+        margin-top: 50px;
+    }
+
+.team-content a:hover {
+    background-color: #3963be;
+    transition: all .3s ease;
+}
+
+.team-content .col-12 {
+    margin-top: 50px;
+}
+
+.portfolio-images img {
+    border: 10px solid transparent;
+    border-color: white;
+}
+
+#portfolio-h3 {
+    color: #3963be;
+}
+
+.services-content {
+    margin-top: 100px;
+    text-align: center;
+}
+
+    .services-content .row {
+        margin-top: 30px;
+    }
+
+    .services-content i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        border-radius: 50%;
+        font-size: 70px;
+    }
+
+    .services-content h1 {
+        color: #3963be;
+    }
+
+.bi {
+    background-color: #3963be;
+    color: white;
+}
+
+.col-4 p {
+    margin-top: 10px;
+}
+
+.about-content {
+    margin-top: 100px;
+    text-align: center;
+}
+
+    .about-content img {
+        margin-top: 20px;
+        border-radius: 100%;
+        width: 130px;
+        height: 130px;
+    }
+
+    .about-content .row {
+        margin-top: 30px;
+    }
+
+    .about-content h1 {
+        color: #3963be;
+    }
+
+.img-content {
+    display: inline-block;
+    justify-content: flex-end;
+    width: 400px;
+}
+
+.about-content .col-12 {
+    margin-top: 30px;
+}
+
+.about-final {
+    text-align: center;
+    color: white;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #3963be;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+
+.team {
+    text-align: center;
+    background-color: #dff0d8;
+}
+
+.team-content img {
+    border-radius: 100%;
+    border: 10px solid white;
+}
+
+.team-bi {
+    font-size: 35px;
+    border-radius: 100%;
+    color: white;
+    background-color: black;
+}
+
+.contact-us {
+    background-color: black;
+}
+
+.contact-us-content {
+    color: white;
+    text-align: center;
+}
+
+.contact-us-h1 {
+    color: #3963be;
+}
+
+.contact-us-input {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.contact-us-input-message {
+    width: 100%;
+    height: 100%;
+}
+
+.contact-us-button {
+    transition: all 0.3s ease;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #3963be;
+    margin-top: 30px;
+}
+
+    .contact-us-button:hover {
+        transition: all 0.3s ease;
+        padding: 10px;
+        border-radius: 5px;
+        color: white;
+        background-color: #203d7c;
+        margin-top: 30px;
+    }
+
+.link {
+    margin-top: 50px;
+    font-size: 25px;
+    text-align: center;
+    background-color: white;
+}
+
+.link-p {
+    font-size: 15px;
+    color: #3963be;
+}
+
+.about-li-text {
+    display: inline-block;
+    width: 350px;
+}
+
+.about-final-content0 {
+    margin-top: 21px;
+}
